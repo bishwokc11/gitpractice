@@ -12,4 +12,4 @@ echo "hello bishwo";
 
 ```
 visit our [facebook]
-(http:\\www.facebook.com)
+(www.facebook.com)
